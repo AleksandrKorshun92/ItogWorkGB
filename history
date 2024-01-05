@@ -1,0 +1,48 @@
+Сначала создал директорию mkdir
+Создал файл домашние животные cat > homeanimals
+Создал файл packanimals cat > packanimals
+Объединил два файла в новый файл  cat homeanimals packanimals > friendPeople
+Показать содержание файла cat friendPeople
+СОздал новую директорию mkdir animal
+Изменил название файл mv -v friendPeople MansFriends
+Переместил файл mv MansFriends animal/ 
+Обновил драйвера sudo apt update
+Скачал my-sql sudo apt install my-sql-server
+установил дополнительный пакет my-sql
+Установка dep пакета команда sudo dpkg -i opera.....dep
+Просмотр установленных пакетов sudo dpkg -l
+Удаление пакета sudo dpkg -r opera.....
+
+
+
+1131  ll
+ 1132  cd GB/
+ 1133  ll
+ 1134  mkdir itogwork
+ 1135  cd itogwork/
+ 1136  cat
+ 1137  cat homeanimals
+ 1138  cat > homeanimals
+ 1139  cat > pack animals
+ 1140  cat > packanimals
+ 1141  cat homeanimals pack
+ 1142  cat homeanimals pack > friendPeople
+ 1143  cat homeanimals packa
+ 1144  cat homeanimals packanimals 
+ 1145  cat homeanimals packanimals > friendPeople
+ 1146  cat friendPeople 
+ 1147  mkdir animal
+ 1148  mv -v friendPeople MansFriends
+ 1149  mv MansFriends animal/
+ 1150  cd animal/
+ 1151  ll
+ 1152  sudo apt update 
+ 1153  sudo apt install mysql-server
+ 1154  sudo apt install mysql-workbench-community libmysqlclient18
+ 1155  sudo snap install mysql-workbench-community libmysqlclient18
+ 1156  history 
+ 1160  cd Загрузки/
+ 1161  sudo dpkg -i opera-stable_103.0.4928.16_amd64
+ 1162  sudo dpkg -i opera-stable_103.0.4928.16_amd64.deb 
+ 1163  sudo dpkg -l
+ 1164  sudo dpkg -r opera-stable 
